@@ -1,0 +1,12 @@
+<?php
+	$num = 1;
+	$string = '1';
+	$Boolean = true;
+	
+	echo $num;
+	echo '<br>';
+	echo $string;
+	echo '<br>;
+	echo $Boolean;
+	
+?>

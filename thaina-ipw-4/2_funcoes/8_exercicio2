@@ -1,0 +1,6 @@
+<?php
+	function receba($Jungkook, $Jimin){
+		return ' O maior nome é: ' . $Jungkook . $Jimin . Strlen
+	}
+	
+?>

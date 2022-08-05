@@ -1,0 +1,6 @@
+<?php
+	echo strlen("cinco");
+	echo '<br>';
+	echo strlen ("quatro");
+
+?>
